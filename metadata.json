@@ -1,0 +1,5 @@
+{
+  "name": "BURAQ Online Store",
+  "description": "A modern and responsive online store application with separate interfaces for customers and sellers. Customers can browse products, add them to a cart, while sellers can manage their store, products, and orders.",
+  "requestFramePermissions": []
+}
